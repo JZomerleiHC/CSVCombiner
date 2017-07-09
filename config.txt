@@ -1,0 +1,7 @@
+sourceFolder=C:\Users\Jordan\IdeaProjects\ADP_CSV_ZIPPER
+sourceType=csv
+outputZipFolderName=adp_vantage_ZIP.zip
+outputUniqueCSVName=adp_vantage_UNIQUE.csv
+fieldsOfInterest=3
+deleteSourceFiles=false
+outputUniqueList=false
